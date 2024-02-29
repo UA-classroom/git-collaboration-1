@@ -1,9 +1,9 @@
 def mysecondfunc():
     print("hello")
 
-
 def newfunc():
-    print("heyyyyyoo")
-
+    print("heyoo")
 def anotherfunc():
     print("halloo")
+
+
