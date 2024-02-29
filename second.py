@@ -3,4 +3,7 @@ def mysecondfunc():
 
 
 def newfunc():
-    print("heyyoo")
+    print("heyyyyyoo")
+
+def anotherfunc():
+    print("halloo")
