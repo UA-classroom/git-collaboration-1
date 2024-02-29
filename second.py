@@ -1,5 +1,2 @@
 def mysecondfunc():
     print("hello")
-
-
-    
